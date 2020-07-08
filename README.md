@@ -1,11 +1,7 @@
-# MobileDiscord
+# MobileDiscord for UBPorts
 
-MobileDiscord is a custom third-party mod for Discord (https://discord.com/).
+MobileDiscord is a custom third-party mod for Discord (https://discord.com/) initially created by Timothy Liang. This version has received a few tweaks to run on the UBPorts mobile operating system.
 
-Neither the code nor its author are affiliated with Discord.
+Neither the code nor its authors are affiliated with Discord.
 
-## Hosting
-
-You can host your own copy of the web app on Heroku:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![OpenStore](https://open-store.io/badges/en_US.svg)](https://open-store.io/app/discord-mobile.hyzchip)
