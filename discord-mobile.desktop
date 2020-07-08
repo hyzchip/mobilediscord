@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Discord mobile
+Exec=discord-mobile %U & webapp-container --store-session-cookies --app-id=Discord --webappUrlPatterns=localhost:3476/* localhost:3476/channels/@me
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

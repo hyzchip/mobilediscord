@@ -1,0 +1,15 @@
+{
+    "name": "discord-mobile.hyzchip",
+    "description": "Unofficial mobile version of the Discord messaging app.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Discord mobile",
+    "hooks": {
+        "discord-mobile": {
+            "apparmor": "discord-mobile.apparmor",
+            "desktop":  "discord-mobile.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Paul-Andre Auray <paulandreauray@gmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}

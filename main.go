@@ -24,7 +24,8 @@ var (
 func main() {
 	port := os.Getenv("PORT")
 	if port == "" {
-		log.Fatal("$PORT must be set")
+		port = "3476"
+                log.Printf("Defaulting to port %s", port)
 	}
 
 	// disable HTTP/2 client
